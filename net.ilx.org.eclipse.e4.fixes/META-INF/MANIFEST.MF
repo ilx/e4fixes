@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: E4Fixes
+Bundle-SymbolicName: net.ilx.org.eclipse.e4.fixes;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: net.ilx.org.eclipse.e4.fixes.Activator
+Bundle-Vendor: ILX
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.objectteams.otequinox,
+ org.eclipse.e4.ui.model.workbench,
+ org.eclipse.core.expressions,
+ org.eclipse.e4.core.commands
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Export-Package: net.ilx.org.eclipse.e4.fixes.ui.internal.menus
