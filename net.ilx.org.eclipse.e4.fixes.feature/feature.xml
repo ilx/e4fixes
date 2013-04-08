@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="net.ilx.org.eclipse.e4.features"
+      label="E4 Fixes"
+      version="1.0.0.qualifier"
+      provider-name="ILX">
+
+   <description url="https://github.com/ilx/e4fixes">
+      E4 Fixes by ILX.
+	  These fixes require Eclipse ObjectTeams (http://www.eclipse.org/objectteams/) to be installed into your Eclipse runtime.
+
+      Related links/bugs:
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=403509
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      Copyright ILX.
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      Eclipse Public License.
+   </license>
+
+   <plugin
+         id="net.ilx.org.eclipse.e4.fixes"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

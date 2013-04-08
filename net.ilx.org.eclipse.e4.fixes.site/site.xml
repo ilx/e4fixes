@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/net.ilx.org.eclipse.e4.features_1.0.0.qualifier.jar" id="net.ilx.org.eclipse.e4.features" version="1.0.0.qualifier">
+      <category name="net.ilx.org.eclipse.e4.fixes"/>
+   </feature>
+   <category-def name="net.ilx.org.eclipse.e4.fixes" label="E4 Fixes">
+      <description>
+         Eclipse E4 Fixes
+      </description>
+   </category-def>
+</site>
