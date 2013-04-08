@@ -3,6 +3,7 @@
 
 # java, xml
 *.java text 
+MANIFEST.MF text
 # eol=lf
 *.xml  text 
 # eol=lf
